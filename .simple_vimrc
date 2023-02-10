@@ -1,0 +1,60 @@
+set enc=utf-8
+set fenc=utf-8
+set termencoding=utf-8
+
+syntax enable
+filetype plugin indent on
+
+au BufRead,BufNewFile *.metal setfiletype metal
+set shiftwidth=4 tabstop=4 softtabstop=4 noexpandtab
+au FileType javascript,html,css setlocal shiftwidth=2 tabstop=2 softtabstop=2 expandtab
+au FileType python,haskell setlocal expandtab
+
+set nocompatible
+map! <C-h> <BS>
+set bs=indent,eol,start
+
+set nu
+set nowrap
+set nobackup
+set noerrorbells
+set autoindent
+set smartindent
+set smartcase
+set incsearch
+set showmatch
+set comments=sl:/*,mb:\ *,elx:\ *
+set undodir=~/.vim/undodir
+set undofile
+
+set colorcolumn=85
+highlight ColorColumn ctermbg=0
+
+call plug#begin('~/.vim/plugged')
+
+Plug 'mbbill/undotree'
+Plug 'morhetz/gruvbox'
+
+Plug 'bfrg/vim-cpp-modern'
+Plug 'kana/vim-filetype-haskell'
+Plug 'rust-lang/rust.vim'
+Plug 'ziglang/zig.vim'
+
+call plug#end()
+
+colorscheme gruvbox
+:set background=dark
+
+let mapleader = ";"
+
+nnoremap <leader>h  :wincmd h<CR>
+nnoremap <leader>j  :wincmd j<CR>
+nnoremap <leader>k  :wincmd k<CR>
+nnoremap <leader>l  :wincmd l<CR>
+nnoremap <leader>x  :%!xxd<CR>
+nnoremap <leader>xr :%!xxd -r<CR>
+nnoremap <leader>u  :UndotreeShow<CR>
+nnoremap <leader>pv :wincmd v<bar> :Ex <bar> :vertical resize 30<CR>
+nnoremap <silent> <leader>= :vertical resize +5<CR>
+nnoremap <silent> <leader>- :vertical resize -5<CR>
+nnoremap <leader>ps :Rg<SPACE>

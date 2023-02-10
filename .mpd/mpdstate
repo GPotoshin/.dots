@@ -1,0 +1,63 @@
+sw_volume: 26
+audio_device_state:1:CoreAudio
+audio_device_state:0:my_fifo
+state: pause
+current: 1
+time: 89.591000
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Jacob Collier/Djesse Vol. 1/01. Home Is.flac
+1:Jacob Collier/Djesse Vol. 1/02. Overture.flac
+2:Jacob Collier/Djesse Vol. 1/03. With The Love In My Heart.flac
+3:Jacob Collier/Djesse Vol. 1/04. Ocean Wide, Canyon Deep.flac
+4:Jacob Collier/Djesse Vol. 1/05. Djesse.flac
+5:Jacob Collier/Djesse Vol. 1/06. Everlasting Motion.flac
+6:Jacob Collier/Djesse Vol. 1/07. Every Little Thing She Does Is Magic.flac
+7:Jacob Collier/Djesse Vol. 1/08. Once You.flac
+8:Jacob Collier/Djesse Vol. 1/09. All Night Long.flac
+9:Jacob Collier/Djesse Vol. 2/01. Intro.flac
+10:Jacob Collier/Djesse Vol. 2/02. Sky Above.flac
+11:Jacob Collier/Djesse Vol. 2/03. Bakumbe.flac
+12:Jacob Collier/Djesse Vol. 2/04. Make Me Cry.flac
+13:Jacob Collier/Djesse Vol. 2/05. Moon River.flac
+14:Jacob Collier/Djesse Vol. 2/06. Feel.flac
+15:Jacob Collier/Djesse Vol. 2/07. À Noite (Interlude).flac
+16:Jacob Collier/Djesse Vol. 2/08. Lua.flac
+17:Jacob Collier/Djesse Vol. 2/09. I Heard You Singing.flac
+18:Jacob Collier/Djesse Vol. 2/10. It Don't Matter.flac
+19:Jacob Collier/Djesse Vol. 2/11. Here Comes The Sun.flac
+20:Jacob Collier/Djesse Vol. 2/12. Dun Dun Ba Ba (Interlude).flac
+21:Jacob Collier/Djesse Vol. 2/13. Nebaluyo.flac
+22:Jacob Collier/Djesse Vol. 2/14. Do You Feel Love.flac
+23:Jacob Collier/Djesse Vol. 2/15. Outro.flac
+24:Jacob Collier/Djesse Vol. 2/16. Time To Rest Your Weary Head.flac
+25:Jacob Collier/Djesse Vol. 3/01. CLARITY.flac
+26:Jacob Collier/Djesse Vol. 3/02. Count The People.flac
+27:Jacob Collier/Djesse Vol. 3/03. In My Bones.flac
+28:Jacob Collier/Djesse Vol. 3/04. Time Alone With You.flac
+29:Jacob Collier/Djesse Vol. 3/05. All I Need (with Mahalia & Ty Dolla $ign).flac
+30:Jacob Collier/Djesse Vol. 3/06. In Too Deep.flac
+31:Jacob Collier/Djesse Vol. 3/07. Butterflies.flac
+32:Jacob Collier/Djesse Vol. 3/08. Sleeping On My Dreams.flac
+33:Jacob Collier/Djesse Vol. 3/09. Running Outta Love.flac
+34:Jacob Collier/Djesse Vol. 3/10. Light It Up On Me.flac
+35:Jacob Collier/Djesse Vol. 3/11. He Won't Hold You.flac
+36:Jacob Collier/Djesse Vol. 3/12. To Sleep.flac
+37:Jacob Collier/In My Room/01. Woke up Today.flac
+38:Jacob Collier/In My Room/02. In My Room.flac
+39:Jacob Collier/In My Room/03. Hideaway.flac
+40:Jacob Collier/In My Room/04. You and I.flac
+41:Jacob Collier/In My Room/05. Down the Line.flac
+42:Jacob Collier/In My Room/06. Now and Then I Think About You.flac
+43:Jacob Collier/In My Room/07. Saviour.flac
+44:Jacob Collier/In My Room/08. Hajanga.flac
+45:Jacob Collier/In My Room/09. Flintstones.flac
+46:Jacob Collier/In My Room/10. In the Real Early Morning.flac
+47:Jacob Collier/In My Room/11. Don't You Know.flac
+playlist_end
